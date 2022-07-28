@@ -1,0 +1,46 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 32
+    defaultConfig {
+        applicationId "com.appsflyer.androidsampleapp.vanh"
+        minSdkVersion 17
+        targetSdkVersion 32
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    buildToolsVersion '32.0.0'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.4.2'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+
+
+//
+//    implementation 'com.appsflyer:af-android-sdk:5.0.0@aar'
+//    implementation 'com.android.installreferrer:installreferrer:1.0'
+//
+//
+    implementation 'com.appsflyer:af-android-sdk:6.7.0'
+    implementation 'com.android.installreferrer:installreferrer:2.2'
+
+//    implementation 'com.appsflyer:oaid:6.1.2'
+//    implementation files('libs/oaid_sdk_1.0.23.aar')
+
+}

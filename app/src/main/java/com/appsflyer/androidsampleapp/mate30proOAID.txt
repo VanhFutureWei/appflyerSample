@@ -1,0 +1,13 @@
+mate30pro OAID: dd94cde1-0c67-4dbd-8052-45ba8f0da4e8
+p30pro OAID:    7e2653d6-2d6d-4a83-8457-49abbf29edba
+nova6 OAID: 	ff59fbf9-afff-718b-fdb7-ebc58fee5af8
+
+calculator app ID in AG: C106055673
+
+
+huawei test app tracking on activation url
+https://app.appsflyer.com/com.hmsecosystem.calculator?pid=huaweiadsglobal_int&af_siteid=__SITEID__&c=__CNAME__&af_adset=__ADSETNAME__&af_ad=__ADNAME__&af_c_id=__CID__&af_adset_id=__ADSETID__&af_ad_id=__ADID__&af_channel=__CHANNEL__&af_ad_type=__APP_STATUS__&af_click_lookback=7d&os=__OS__&clickid=__REQUESTID__&md5_oaid=3afbd38bab763d8707011b8385b1e085&md5_advertising_id=&af_ip=__IP__&af_ua=__UA__&af_lang=__LANG__&redirect=false&callback_url=https%3A%2F%2Fppscrowd-dra.op.dbankcloud.com%2Faction-lib-track%2Fhiad%2Fv2%2Foverseas%2Factionupload&callback=740866060244222592%2645017748%2635067009%262022-07-21%2005%3A38%3A19%264D3DCqv033naAyDQHEabAAWTuzNPNU9Z79Vs%2BRRimgSe%2FR8Lgx4QLiXJF8CE2hh1%261&af_ref=__REFERRER__
+
+
+Huawei ads test app traking add to wishlist url
+https://app.appsflyer.com/com.hmsecosystem.calculator?pid=huaweiadsglobal_int&af_siteid=__SITEID__&c=__CNAME__&af_adset=__ADSETNAME__&af_ad=__ADNAME__&af_c_id=__CID__&af_adset_id=__ADSETID__&af_ad_id=__ADID__&af_channel=__CHANNEL__&af_ad_type=__APP_STATUS__&af_click_lookback=7d&os=__OS__&clickid=__REQUESTID__&md5_oaid=3afbd38bab763d8707011b8385b1e085&md5_advertising_id=&af_ip=__IP__&af_ua=__UA__&af_lang=__LANG__&redirect=false&callback_url=https%3A%2F%2Fppscrowd-dra.op.dbankcloud.com%2Faction-lib-track%2Fhiad%2Fv2%2Foverseas%2Factionupload&callback=740866060244222592%2645017748%2635069691%262022-07-21%2006%3A08%3A24%26h%2BzHHs8dJ%2FtQyBiWmx8f3dR8HCSZhGXCtB8d827bofhPrHpYeosfRFf5VO0%2FOwhz%261&af_ref=__REFERRER__
