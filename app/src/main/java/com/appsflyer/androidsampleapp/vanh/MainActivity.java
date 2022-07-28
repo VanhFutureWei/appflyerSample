@@ -44,8 +44,6 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-
-
     /*** Ignore - used to display install data ***/
     public void SetInstallDataText(){
         handler.postDelayed(() -> {
