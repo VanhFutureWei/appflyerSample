@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applyerSample.iml" filepath="$PROJECT_DIR$/.idea/modules/applyerSample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/applyerSample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/applyerSample.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/applyerSample.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/applyerSample.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/applyerSample.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/applyerSample.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/applyerSample.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/applyerSample.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appflyerSample.iml" filepath="$PROJECT_DIR$/.idea/modules/appflyerSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/appflyerSample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/appflyerSample.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/appflyerSample.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/appflyerSample.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/appflyerSample.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/appflyerSample.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/appflyerSample.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/appflyerSample.app.unitTest.iml" />
     </modules>
   </component>
 </project>
